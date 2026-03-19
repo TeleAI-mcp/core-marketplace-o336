@@ -1,2 +1,3 @@
-# core-marketplace-o336
-Automated issue comment bot repository
+# Core Marketplace O336
+
+Automated issue comment bot repository.
